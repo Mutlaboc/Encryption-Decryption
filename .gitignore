@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Encryption-Decryption (Kotlin)/task/build/
+/Encryption-Decryption (Kotlin)/task/out/
+/Encryption-Decryption (Kotlin)/task/out/production/classes/
+/Topics/For loop and ranges/Count the numbers/out/
+/Topics/For loop and ranges/Count the numbers/out/production/classes/
